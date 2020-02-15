@@ -1,2 +1,2 @@
 # ChuckNorrisJokesWebsite
- A website purely for Chuck Norris Jokes
+This repository contains the source code for my website that contains purely of Chuck Norris Jokes.
